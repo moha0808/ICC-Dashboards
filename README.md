@@ -52,5 +52,4 @@ git clone [https://github.com/moha0808/ICC-Dashboards.git](https://github.com/mo
 
 3. **Data Source Setup:**
 * If prompted to refresh data, go to **Transform Data > Data Source Settings** and update the file path to point to your local copy of `icc_dataset.xlsx`.
-
-`
+<img width="1357" height="751" alt="Screenshot 2026-10-17 110649" src="https://github.com/user-attachments/assets/5098b9f8-0080-4412-863a-fdbd20426f5f" />
